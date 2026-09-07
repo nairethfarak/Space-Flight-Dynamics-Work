@@ -7,7 +7,7 @@ The projects use Python-based numerical methods and orbital mechanics theory to 
 `Orbital Mechanics` · `Spacecraft Dynamics` · `Trajectory Analysis` · `Orbit Propagation` · `Rendezvous` · `Interplanetary Transfers`
 
 ## Projects
-### Ballistic Trajectory
+### 1. Ballistic Trajectory
 *File:* Ballistic_Trajectory
 
 Analysis of the post-burnout trajectory of a rocket under the assumption that atmospheric drag can be neglected after engine shutdown.
@@ -22,7 +22,7 @@ The vehicle reaches burnout at an altitude of 5 km, with a flight path angle of 
 - Calculation of the surface distance traveled until impact.
 - 2D visualization of the trajectory and a simplified representation of the Earth's surface.
 
-### Mars Rendezvous
+### 2. Mars Rendezvous
 *File:* Mars_Rendezvous
 
 Numerical analysis of a rendezvous maneuver between a space station and a crewed spacecraft.
@@ -39,7 +39,7 @@ The maneuver begins 3 hours after the initial epoch, with the launch of a supply
 - Visualization and animation of the rendezvous maneuver
 
 
-### Interplanetary Mission
+### 3. Interplanetary Mission
 
 *File:* Interplanetary_Mission
 
@@ -62,7 +62,7 @@ is used as the primary metric to evaluate the energy required for departure from
 - Identification of low-$C_3$ launch opportunities.
 - Selection of an optimal launch window based on departure energy requirements.
 
-### Space Flight Dynamics Problems
+### 4. Space Flight Dynamics Problems
 *File:* Space_Flight_Dynamics_Problems
 A collection of computational problems covering fundamental concepts in space flight dynamics and orbital mechanics.
 
