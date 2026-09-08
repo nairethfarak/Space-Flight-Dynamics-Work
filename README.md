@@ -8,7 +8,7 @@ The projects use Python-based numerical methods and orbital mechanics theory to 
 
 ## Projects
 ### 1. Ballistic Trajectory
-*File:* Ballistic_Trajectory
+*File:* Ballistic_Trajectory.ipynb
 
 Analysis of the post-burnout trajectory of a rocket under the assumption that atmospheric drag can be neglected after engine shutdown.
 
@@ -23,7 +23,7 @@ The vehicle reaches burnout at an altitude of 5 km, with a flight path angle of 
 - 2D visualization of the trajectory and a simplified representation of the Earth's surface.
 
 ### 2. Mars Rendezvous
-*File:* Mars_Rendezvous
+*File:* Mars_Rendezvous.ipynb
 
 Numerical analysis of a rendezvous maneuver between a space station and a crewed spacecraft.
 
@@ -41,7 +41,7 @@ The maneuver begins 3 hours after the initial epoch, with the launch of a supply
 
 ### 3. Interplanetary Mission
 
-*File:* Interplanetary_Mission
+*File:* Interplanetary_Mission.ipynb
 
 Analysis of an interplanetary transfer and launch-window selection using a porkchop plot.
 
@@ -63,7 +63,8 @@ is used as the primary metric to evaluate the energy required for departure from
 - Selection of an optimal launch window based on departure energy requirements.
 
 ### 4. Space Flight Dynamics Problems
-*File:* Space_Flight_Dynamics_Problems
+*File:* Space_Flight_Dynamics_Problems.ipynb
+
 A collection of computational problems covering fundamental concepts in space flight dynamics and orbital mechanics.
 
 The notebook uses Python to calculate and analyze:
